@@ -9,7 +9,7 @@
 
     <form id="registrationForm">
         <label>Name:</label>
-        <input type="text" id="name">
+        <input type="text" id="name" required>
 
         <br><br>
 
